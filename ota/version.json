@@ -1,8 +1,8 @@
 {
   "major": 0,
   "minor": 0,
-  "patch": 1,
-  "version": "0.0.1",
+  "patch": 2,
+  "version": "0.0.2",
   "file": "firmware.bin",
-  "notes": "Erstes Release: Dashboard, AP-Modus, Captive Portal, Geraetename"
+  "notes": "Dashboard, Captive Portal, Geraetename, Dev-Mode, Fingerprint"
 }
